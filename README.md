@@ -4,6 +4,8 @@
 
 A simple app for teaching children about letters and how letters are combined to create words.
 
+![app screenshot](./images/screenshot.png)
+
 ---
 
 # Background
